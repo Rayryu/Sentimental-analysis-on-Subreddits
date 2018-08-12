@@ -1,4 +1,4 @@
-# Sentimentalanalysis on Subreddits
+# Sentimental analysis on Subreddits' comments
 Web scraping and sentimental analysis on top 100 Subreddits using BeautifulSoup and TextBlop.
 
 I used BeautifulSoup for scraping Top 100 subreddits, Python Reddit API Wrapper to get comments from reddit's web site and TextBlop to get polarity of every comment of every subreddit from the Top 100 list. 
